@@ -1,0 +1,14 @@
+D:\New folder\SOM3A\.NET رواد\C#\OOP\Task01\Task01\obj\Debug\net9.0\Task01.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\SOM3A\.NET رواد\C#\OOP\Task01\Task01\obj\Debug\net9.0\Task01.AssemblyInfoInputs.cache
+D:\New folder\SOM3A\.NET رواد\C#\OOP\Task01\Task01\obj\Debug\net9.0\Task01.AssemblyInfo.cs
+D:\New folder\SOM3A\.NET رواد\C#\OOP\Task01\Task01\obj\Debug\net9.0\Task01.csproj.CoreCompileInputs.cache
+D:\New folder\SOM3A\.NET رواد\C#\OOP\Task01\Task01\bin\Debug\net9.0\Task01.exe
+D:\New folder\SOM3A\.NET رواد\C#\OOP\Task01\Task01\bin\Debug\net9.0\Task01.deps.json
+D:\New folder\SOM3A\.NET رواد\C#\OOP\Task01\Task01\bin\Debug\net9.0\Task01.runtimeconfig.json
+D:\New folder\SOM3A\.NET رواد\C#\OOP\Task01\Task01\bin\Debug\net9.0\Task01.dll
+D:\New folder\SOM3A\.NET رواد\C#\OOP\Task01\Task01\bin\Debug\net9.0\Task01.pdb
+D:\New folder\SOM3A\.NET رواد\C#\OOP\Task01\Task01\obj\Debug\net9.0\Task01.dll
+D:\New folder\SOM3A\.NET رواد\C#\OOP\Task01\Task01\obj\Debug\net9.0\refint\Task01.dll
+D:\New folder\SOM3A\.NET رواد\C#\OOP\Task01\Task01\obj\Debug\net9.0\Task01.pdb
+D:\New folder\SOM3A\.NET رواد\C#\OOP\Task01\Task01\obj\Debug\net9.0\Task01.genruntimeconfig.cache
+D:\New folder\SOM3A\.NET رواد\C#\OOP\Task01\Task01\obj\Debug\net9.0\ref\Task01.dll
