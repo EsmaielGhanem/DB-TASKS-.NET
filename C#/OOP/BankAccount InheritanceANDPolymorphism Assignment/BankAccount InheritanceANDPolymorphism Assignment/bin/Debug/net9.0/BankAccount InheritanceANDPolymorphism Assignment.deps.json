@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BankAccount InheritanceANDPolymorphism Assignment/1.0.0": {
+        "runtime": {
+          "BankAccount InheritanceANDPolymorphism Assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankAccount InheritanceANDPolymorphism Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
