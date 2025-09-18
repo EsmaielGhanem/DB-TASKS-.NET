@@ -1,0 +1,74 @@
+/* Body styles */
+body {
+  background-color: #f0f2f5;          /* light background color */
+  display: flex;                     /* flexbox to center vertically */
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;                 /* full viewport height */
+  font-family: 'Roboto', sans-serif; /* Google font */
+  margin: 0;
+}
+
+/* Card styles */
+.card {
+  background-color: #ffffff; /* white background */
+  padding: 20px;
+  border: 1px solid #ddd; 
+  border-radius: 10px;       /* rounded corners */
+  max-width: 800px;
+  margin: 0 auto;            /* horizontal centering */
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+/* Heading styles */
+h1 {
+  font-size: 2.5rem;
+  color: #2c3e50;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 1.8rem;
+  color: #34495e;
+  margin-top: 20px;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 5px;
+}
+
+/* Paragraph styles */
+p {
+  font-size: 1rem;
+  color: #555;
+  line-height: 1.6;
+}
+
+/* Link styles */
+a {
+  color: #2980b9;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Image styling */
+img {
+  display: block;
+  max-width: 150px;
+  border-radius: 50%; /* circular image */
+  margin: 0 auto 20px auto; /* center with space below */
+}
+
+/* List styling */
+ul {
+  list-style: disc;
+  padding-left: 20px;
+  color: #444;
+}
+
+li {
+  margin-bottom: 5px;
+}
